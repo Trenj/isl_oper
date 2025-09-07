@@ -1,0 +1,70 @@
+class line #Ax+Bx+C<=0\
+{
+    int A
+    int B
+    int C
+pubic:
+    void setA(int a){a=A; return;}
+    void setB(int b){b=B; return;}
+    void setC(int c){c=C; return;}
+    int IsPoint Set(float x; float y)
+}
+if (A*x+B*y+C<=0) return 1;
+    else return 0;
+    }
+}
+
+class Point
+{
+    float x;
+    float y;
+pubic:
+    void Setx(floatx){x=sx; return}
+    void Sety(floatx){y=sy; return}
+}
+    void main(void)
+}
+Line(xline)[8];
+int i, int A,B,C;
+    for (i=0; i<8; i++)
+    {
+        scanf(`%g %g %g`, &A, &B, &C);
+        (xlines)[i]=new(line, A,B,C)
+        
+        for (i=0; i<8; i++)
+        {
+            for (j=0; j<8; J++)
+            {
+                if (i=j) break;
+                Ai lines[i]-->GetA();
+                Aj lines[j]-->GetA();
+                Bi lines[i]-->GetB();
+                Bj lines[j]-->GetB();
+                Ci lines[i]-->GetC();
+                Cj lines[j]-->GetC();
+
+
+#{Aix+Biy+Ci=0
+#{Ajx+Bjy+Cj=0
+#D0=Ai+Bj-Aj*Bi;
+#  |Ci;Bi|
+#x=|Cj;Bj|
+#   -----
+#     D
+#Dx=Cj*Bi-Ci*Bji
+#x=D*x/D1
+#Dy=Ci*Aj-Cj*Ai;
+#  |Ai-Ci|
+#x=|Aj-Cj|
+#   -----
+#     D
+#y=Dy/D1
+
+
+
+p=new(Point(x;y));
+for(k=0;k<8;k++)
+    is(lines[k]-->IsPointSat(pl=0)gotof);
+    num++
+    Lsum[num]=fune();
+af; countime;
